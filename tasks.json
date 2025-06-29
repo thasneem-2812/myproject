@@ -1,0 +1,12 @@
+[
+    {
+        "description": "completing project",
+        "due_date": "2025-06-30",
+        "completed": true
+    },
+    {
+        "description": "buying birthday present",
+        "due_date": "2025-07-06",
+        "completed": true
+    }
+]
